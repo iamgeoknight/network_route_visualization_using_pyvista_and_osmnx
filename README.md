@@ -1,2 +1,4 @@
-# network_visualization_using_pyvista
-Network Visualization Using Pyvista
+# Network route visualization using pyvista and osmnx
+Network route visualization using pyvista and osmnx
+
+![Network route visualization using pyvista and osmnx](pyvista_route.png)
